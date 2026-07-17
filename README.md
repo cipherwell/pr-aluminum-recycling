@@ -139,7 +139,7 @@ publicará — sin instalar nada.
 
 ## 🌐 Cómo verlo en la web
 
-https://cipherwell.github.io/pr-aluminum-recycling/#sources
+https://cipherwell.github.io/pr-aluminum-recycling/
 
 ## 🖥️ Cómo verlo en local
 
