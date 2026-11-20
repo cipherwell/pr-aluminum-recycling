@@ -226,7 +226,7 @@ Para citar este trabajo en una publicación académica o periodística:
 ## 📬 Contacto
 
 - **Issues y pull requests:** por este medio, por favor.
-- **Email:** 25090180+cipherwell@users.noreply.github.com
+- **Email:** cipherwell@users.noreply.github.com
   (usa un *issue* público si el tema no es privado)
 
 ---
