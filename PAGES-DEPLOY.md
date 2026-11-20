@@ -38,7 +38,7 @@ The token needs `repo` scope. After this, wait 30–60s for the first build.
 |---|---|
 | `https://cipherwell.github.io/pr-aluminum-recycling/` | Site root (the actual website) |
 | `https://cipherwell.github.io/pr-aluminum-recycling/index.html` | Same as above |
-| `https://cipherwell.github.io/pr-aluminum-recycling/recircular-onepage.pdf` | The 32-page PDF |
+| `https://cipherwell.github.io/pr-aluminum-recycling/recircular-onepage.pdf` | The 34-page PDF |
 | `https://cipherwell.github.io/pr-aluminum-recycling/assets/translations.json` | Translation data |
 
 ## If something goes wrong

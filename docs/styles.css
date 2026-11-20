@@ -1632,6 +1632,7 @@ hr { border: 0; border-top: 1px solid var(--c-rule); margin: var(--sp-6) 0; }
 .pill-ink     { background: var(--c-bg-alt); color: var(--c-fg); }
 
 /* ============================== PRINT ============================== */
+@page { size: A4; margin: 20mm 15mm; }
 @media print {
   .site-header, .site-footer, .hero-cta, .map-controls, #pr-map { display: none; }
   .hero { background: white; color: black; padding: 1cm 0; }

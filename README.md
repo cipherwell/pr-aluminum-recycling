@@ -94,7 +94,7 @@ pr-aluminum-recycling/
 │   ├── index.html
 │   ├── app.js
 │   ├── styles.css
-│   ├── recircular-onepage.pdf ← PDF de 32 páginas A4 (también servido por Pages)
+│   ├── recircular-onepage.pdf ← PDF de 34 páginas A4 (también servido por Pages)
 │   ├── DESIGN.md              ← especificación de diseño (14 secciones)
 │   └── assets/                ← 7 archivos JSON que alimentan los gráficos
 ├── research/                  ← 5 documentos de investigación
